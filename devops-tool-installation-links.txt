@@ -1,0 +1,26 @@
+ansible installation
+https://docs.ansible.com/ansible/latest/installation_guide/installation_distros.html#installing-ansible-on-ubuntu
+
+terraform installation
+https://developer.hashicorp.com/terraform/downloads 
+
+docker installation
+https://docs.docker.com/engine/install/ubuntu/
+
+docker permission denied or we need to use sudo for every command(Method 3: Enable Non-Root User Access)
+https://phoenixnap.com/kb/docker-permission-denied
+
+aws installation
+https://linuxhint.com/install_aws_cli_ubuntu/
+
+kubernetes installation(kubelet kubeadm kubectl)
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+
+jenkins installation
+https://www.jenkins.io/doc/book/installing/linux/
+
+git installation on ubuntu
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04
+
+/usr/bin/ssh-copy-id: ERROR: failed to open ID file 'root@172.31.34.148.pub': No such file
+https://www.youtube.com/watch?v=CXohBAxgL9w
